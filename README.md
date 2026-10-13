@@ -1,232 +1,173 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8E2DE2&height=220&section=header&text=SUNIL%20MANDLOI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Life%20Science%20×%20Biotech%20×%20Data%20×%20AI%20×%20Business&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:060606,100:111111&height=155&section=header&text=SUNIL%20MANDLOI&fontSize=44&fontColor=c5ff4a&fontAlignY=43&desc=Life%20Sciences%20%2F%2F%20Code%20%2F%2F%20Data%20%2F%2F%20AI%20%2F%2F%20Business&descAlignY=72&descSize=15"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=750&lines=I.MSc.+Life+Science+Student+%40+University+of+Hyderabad;Turning+Biology+into+Business+Decisions;Learning+Python+%7C+Data+%7C+AI+%7C+Finance;Future+Life-Science+Business+Consultant;Science+%2B+Strategy+%2B+Code+%3D+Impact" />
-
-<br/>
-
-<a href="https://github.com/sunilnarayan419-ui"><img src="https://img.shields.io/badge/GitHub-sunilnarayan419--ui-181717?style=for-the-badge&logo=github"/></a>
-<img src="https://img.shields.io/badge/Status-🟢%20Building-2ea44f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Science%20×%20Business-8E2DE2?style=for-the-badge"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=C5FF4A&center=true&vCenter=true&width=800&lines=I.MSc.+Life+Science+%40+University+of+Hyderabad;Building+Python+%26+FastAPI+projects;Exploring+computational+biology+%26+AI+for+life+sciences;Research+%2B+Engineering+%2B+Business+Thinking" alt="Typing intro"/>
 
 <br/>
 
-## ⚡ Who is this guy?
+<a href="https://github.com/sunilnarayan419-ui"><img src="https://img.shields.io/badge/GitHub-sunilnarayan419--ui-c5ff4a?style=for-the-badge&logo=github&logoColor=060606&labelColor=060606" alt="GitHub"/></a>
+<a href="https://sunil-narayan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Open-c5ff4a?style=for-the-badge&logo=netlify&logoColor=c5ff4a&labelColor=060606" alt="Portfolio"/></a>
+<a href="https://www.researchgate.net/profile/Sunil-Mandloi-2"><img src="https://img.shields.io/badge/ResearchGate-Profile-c5ff4a?style=for-the-badge&logo=researchgate&logoColor=c5ff4a&labelColor=060606" alt="ResearchGate"/></a>
 
-```yaml
-name: Sunil Mandloi
-role: Life Science Student → Future Biotech Business Consultant
-studying_at: University of Hyderabad (I.MSc. Life Science)
-obsession: "Where does a biology problem turn into a business decision?"
-mode: Learn → Build → Break → Debug → Analyze → Document → Repeat
-```
+</div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
+  <img src="assets/profile-photo.png" width="230" alt="Portrait of Sunil Mandloi"/>
+  <br/>
+  <sub><code>sunil@life-sciences × software × data</code></sub>
 </div>
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  SYSTEM PROFILE                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│  NAME       Sunil Mandloi                                            │
+│  ROLE       I.MSc. Life Science Student                              │
+│  INSTITUTE  University of Hyderabad                                  │
+│  MODE       Learn -> Build -> Test -> Debug -> Document -> Repeat    │
+│  INTERESTS  Biology / Computing / Data / AI / Biotech / Strategy     │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+## `01 / ABOUT`
+
+I'm a Life Sciences student building practical skills at the intersection of **biology, software engineering, data analysis, machine learning, and business reasoning**.
+
+I use projects to learn how to turn a question into a reproducible analysis or useful tool: understand the problem, inspect the data, make assumptions explicit, build and test a solution, document limitations, and communicate what the evidence supports.
+
+```text
+BIOLOGICAL QUESTION
+        |
+        v
+ RESEARCH + DATA ---> ANALYSIS / MODEL
+                            |
+                            v
+                  TESTED TOOL / API
+                            |
+                            v
+                 EVIDENCE + LIMITATIONS
+                            |
+                            v
+                    PRACTICAL DECISION
+```
+
+## `02 / PROJECT LOG`
+
+| Repository | What it explores |
+|---|---|
+| [📡 Churn Handset Targeting](https://github.com/sunilnarayan419-ui/churn-handset-targeting) | Telecom churn-risk modelling, calibration, retention economics, pilot sizing, and an API. A measurement-first pilot that emphasizes validating incremental impact before broad rollout. |
+| [💳 Home Credit Default Risk](https://github.com/sunilnarayan419-ui/Home_credit_default_risk) | Credit-risk modelling workflow with data validation, model evaluation, API-oriented deployment, testing, and technical documentation. Educational analysis—not a real lending decision system. |
+| [🧫 Cell Division Timer](https://github.com/sunilnarayan419-ui/cell_division_timer) | Quantitative cell-division timing and biological data analysis, connecting programming with a life-science problem. |
+| [💉 Novo Nordisk — Insulin in India Strategy](https://github.com/sunilnarayan419-ui/novo-nordisk-insulin-india-strategy) | Research and strategic analysis around insulin, healthcare access, market dynamics, and business decisions in India. |
+| [🧬 Mini Bio-Python Projects](https://github.com/sunilnarayan419-ui/Mini-Bio-Python-Projects) | Small Python exercises around biological data and computational thinking. |
+| [📚 Library Management System](https://github.com/sunilnarayan419-ui/Library-Management-System) | Application development practice covering library workflows, data handling, and software structure. |
+
+**[Browse all public repositories →](https://github.com/sunilnarayan419-ui?tab=repositories)**
+
+## `03 / RESEARCH RADAR`
+
+Areas I’m interested in learning and investigating:
+
+- **Molecular and cellular biology** — mechanisms, gene regulation, chromatin, and cell biology.
+- **Computational biology and bioinformatics** — using programming and data to explore biological systems.
+- **Biotechnology and translational research** — connecting scientific understanding with potential applications.
+- **Drug discovery and development** — investigating how computational methods may support early-stage research.
+- **Plant biology and biotechnology** — biological systems, plant-derived compounds, and possible applications.
+- **AI for life sciences** — evaluating where machine learning is useful, what evidence is required, and where limitations matter.
+
+I have explored questions around horseshoe crab innate immunity as inspiration for diagnostic design, and transcriptional activity across accessible chromatin. These are **research interests and discussion topics**, not claims of published findings.
+
+[Open my ResearchGate profile →](https://www.researchgate.net/profile/Sunil-Mandloi-2)
+
+## `04 / TECH STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,docker,postgres,vscode,react,typescript&theme=dark" alt="Technology icons"/>
+
+</div>
+
+```text
+LANGUAGES & DATA     Python, SQL, NumPy, pandas, Matplotlib, SciPy
+MACHINE LEARNING     scikit-learn, model evaluation, feature engineering,
+                     cross-validation, calibration
+BACKEND              FastAPI, REST APIs, Pydantic
+DATABASES            PostgreSQL, SQLite; introductory graph workflows
+QUALITY              pytest, Ruff, mypy, GitHub Actions
+DELIVERY             Git, GitHub, Docker, environment configuration
+DOCUMENTATION        Markdown, API docs, MkDocs Material, technical reports
+DOMAIN               Life sciences, computational biology, biotech analysis
+```
+
+*This is a learning-in-progress toolkit; proficiency varies by tool and topic.*
+
+## `05 / BUILD PROTOCOL`
+
+```text
+[01] DEFINE       State the question and intended decision
+[02] INSPECT      Check data quality, provenance, and constraints
+[03] DESIGN       Make assumptions and evaluation criteria explicit
+[04] BUILD        Create a small, testable implementation
+[05] VALIDATE     Test edge cases and examine model / analysis limits
+[06] DOCUMENT     Explain setup, outputs, and reproducibility
+[07] COMMUNICATE  Translate results into useful next steps
+```
+
+My goal is to ship projects that go beyond a demo: **clear setup, sensible validation, tests where appropriate, readable documentation, and honest limitations**.
+
+## `06 / GITHUB PULSE`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sunilnarayan419-ui&show_icons=true&theme=transparent&hide_border=true&bg_color=060606&title_color=c5ff4a&icon_color=c5ff4a&text_color=e5e5e5" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilnarayan419-ui&layout=compact&theme=transparent&hide_border=true&bg_color=060606&title_color=c5ff4a&text_color=e5e5e5" alt="Top languages"/>
 
 <br/>
 
-> I'm not collecting skills to collect them. I'm stacking **Biology + Code + Data + Finance + Strategy** into one lens — so I can look at a scientific problem and see the business decision hiding inside it.
+<img src="https://streak-stats.demolab.com?user=sunilnarayan419-ui&theme=dark&hide_border=true&background=060606&ring=c5ff4a&fire=c5ff4a&currStreakLabel=c5ff4a" alt="GitHub contribution streak"/>
 
----
+</div>
 
-## 🧬 The Signal I'm Chasing
+<sub>Stats cards are served by third-party services and may occasionally be unavailable or delayed.</sub>
 
-<div align="center">
+## `07 / CURRENT DIRECTION`
 
-```mermaid
-flowchart LR
-    A[🧬 Biological Problem] --> B[⚙️ Technology]
-    B --> C[🚧 Bottleneck]
-    C --> D[💰 Economics]
-    D --> E[📊 Market & Competition]
-    E --> F[♟️ Strategic Decision]
+```text
+LIFE SCIENCES
+      |
+      +----> PROGRAMMING + STATISTICS
+                    |
+                    +----> DATA ANALYTICS
+                    |          |
+                    |          +----> COMPUTATIONAL BIOLOGY
+                    |                       |
+                    |                       +----> AI / ML FOR LIFE SCIENCES
+                    |
+                    +----> BACKEND + TESTING + DEPLOYMENT
 
-    style A fill:#2F81F7,color:#fff,stroke:none
-    style B fill:#5B5FE9,color:#fff,stroke:none
-    style C fill:#8E2DE2,color:#fff,stroke:none
-    style D fill:#A429C9,color:#fff,stroke:none
-    style E fill:#C0289E,color:#fff,stroke:none
-    style F fill:#DA2778,color:#fff,stroke:none
+ALL PATHS --------------------------------> EVIDENCE-BASED DECISIONS
 ```
 
-</div>
+I’m working toward a career that combines **life-science understanding, computational methods, and business judgement**. Research, bioinformatics, data/ML engineering, biotech innovation, and healthcare strategy are all areas I’m exploring through coursework, practical projects, and experience.
 
----
+## `08 / CONTACT`
 
-## 🎮 Character Build
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🧬 Biology**
-`████████████████░░░░` 80%
-
-**🐍 Python & Code**
-`████████████░░░░░░░░` 60%
-
-**📊 Data Analysis**
-`███████████░░░░░░░░░` 55%
-
-</td>
-<td width="50%" valign="top">
-
-**💰 Finance & Economics**
-`██████████░░░░░░░░░░` 50%
-
-**♟️ Strategy & Consulting**
-`█████████░░░░░░░░░░░` 45%
-
-**🤖 AI for Life Sciences**
-`████████░░░░░░░░░░░░` 40%
-
-</td>
-</tr>
-</table>
-
-<sub>⚠️ Self-rated skill bars — not a certification, just where the grind currently stands.</sub>
-
----
-
-## 🗺️ The Long Game
+Interested in computational biology, bioinformatics, AI for life sciences, biotechnology, open-source engineering, or healthcare strategy? I’d be glad to connect and learn from what you’re building.
 
 <div align="center">
 
-```mermaid
-flowchart TD
-    S([🧬 Life Science Foundation]) --> T([🐍 Python & Coding])
-    T --> U([📊 Data Analytics])
-    U --> V([🧬 Bioinformatics])
-    V --> W([🤖 Artificial Intelligence])
-    W --> X([💰 Finance & Economics])
-    X --> Y([📈 Business])
-    Y --> Z([♟️ Strategy])
-    Z --> END([💼 Life-Science Business Consultant])
+<a href="https://github.com/sunilnarayan419-ui"><img src="https://img.shields.io/badge/GitHub-Visit-c5ff4a?style=for-the-badge&logo=github&logoColor=c5ff4a&labelColor=060606" alt="GitHub"/></a>
+<a href="https://sunil-narayan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-c5ff4a?style=for-the-badge&logo=netlify&logoColor=c5ff4a&labelColor=060606" alt="Portfolio"/></a>
+<a href="https://www.researchgate.net/profile/Sunil-Mandloi-2"><img src="https://img.shields.io/badge/ResearchGate-Connect-c5ff4a?style=for-the-badge&logo=researchgate&logoColor=c5ff4a&labelColor=060606" alt="ResearchGate"/></a>
 
-    style S fill:#2F81F7,color:#fff,stroke:none
-    style T fill:#4A6EF5,color:#fff,stroke:none
-    style U fill:#645BF2,color:#fff,stroke:none
-    style V fill:#7F4FEF,color:#fff,stroke:none
-    style W fill:#9942EB,color:#fff,stroke:none
-    style X fill:#B336E8,color:#fff,stroke:none
-    style Y fill:#CD2AE4,color:#fff,stroke:none
-    style Z fill:#E71EE1,color:#fff,stroke:none
-    style END fill:#FF0080,color:#fff,stroke:none
-```
+<br/><br/>
+
+**SCIENCE** asks what is possible.  
+**DATA** helps us understand what is happening.  
+**ECONOMICS** clarifies what is valuable.  
+**STRATEGY** helps decide what to do next.
 
 </div>
 
----
-
-## 🕹️ Quest Log — Active Projects
-
-<table width="100%">
-<tr><th align="left">Project</th><th align="left">What it does</th><th align="left">Status</th></tr>
-<tr>
-<td>📚 <b>Library Management System</b></td>
-<td>Python app for books, users, issuing & returns</td>
-<td>🟢 Active</td>
-</tr>
-<tr>
-<td>📊 <b>Sales Performance Tracker</b></td>
-<td>Tracks sales activity, targets & team insights</td>
-<td>🟢 Active</td>
-</tr>
-<tr>
-<td>💰 <b>Startup Runway Manager</b></td>
-<td>Cash burn, runway & early-stage financial decisions</td>
-<td>🟢 Active</td>
-</tr>
-<tr>
-<td>🧬 <b>Mini Bio-Python Projects</b></td>
-<td>Python meets molecular biology & protein analysis</td>
-<td>🟡 Growing</td>
-</tr>
-<tr>
-<td>💻 <b>Python Practice Vault</b></td>
-<td>Fundamentals, logic & problem-solving reps</td>
-<td>🔄 Ongoing</td>
-</tr>
-</table>
-
----
-
-## 🏗️ How I Build Things
-
-<div align="center">
-
-```mermaid
-flowchart LR
-    P[Industry Problem] --> R[Research] --> AN[Analysis]
-    AN --> BE[🔧 Analytical Backend<br/>Data · Models · Code]
-    AN --> CD[📑 Client Deliverable<br/>Summary · Report · Deck]
-
-    style P fill:#161B22,color:#fff,stroke:#2F81F7
-    style R fill:#161B22,color:#fff,stroke:#2F81F7
-    style AN fill:#161B22,color:#fff,stroke:#2F81F7
-    style BE fill:#0D2847,color:#fff,stroke:#2F81F7
-    style CD fill:#2A0D47,color:#fff,stroke:#8E2DE2
-```
-
-</div>
-
-Every real project I ship carries **both halves** — the code/model that proves I can do the work, and the report/memo that proves I can communicate it to someone who makes decisions.
-
----
-
-## 💼 The Lens I Analyze Businesses Through
-
-<table width="100%">
-<tr><td width="20%" align="center">🎯<br/><b>Market</b></td><td>Who's the customer, how big is the market, what drives demand?</td></tr>
-<tr><td align="center">⚙️<br/><b>Technology</b></td><td>What creates the edge, how mature is it, where does it break?</td></tr>
-<tr><td align="center">💰<br/><b>Economics</b></td><td>What's the cost, where's the value, what drives the margin?</td></tr>
-<tr><td align="center">🥊<br/><b>Competition</b></td><td>Who's fighting for the same space, how hard is entry?</td></tr>
-<tr><td align="center">♟️<br/><b>Strategy</b></td><td>Build, buy, partner, or license — and what should happen next?</td></tr>
-</table>
-
----
-
-## 📊 GitHub Pulse
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sunilnarayan419-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=2F81F7"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilnarayan419-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilnarayan419-ui&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=8E2DE2"/>
-</div>
-
-<sub>⚠️ These cards pull live data from GitHub — the numbers grow as the commits do.</sub>
-
----
-
-<div align="center">
-
-## 🧭 The Principle Behind All of This
-
-<h3>
-🧬 Science explains what is <i>possible</i>.<br/>
-📊 Data shows what is <i>happening</i>.<br/>
-💰 Economics tells us what is <i>valuable</i>.<br/>
-♟️ Strategy decides what we <i>should do</i>.
-</h3>
-
-</div>
-
----
-
-## 🤝 Let's Build / Talk / Argue About Biotech Strategy
-
-If you care about biotechnology, life sciences, bioinformatics, AI, healthcare, pharma, finance, strategy, or scientific entrepreneurship — my inbox (aka my GitHub) is open.
-
-<div align="center">
-<a href="https://github.com/sunilnarayan419-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2F81F7&height=120&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:060606&height=55&section=footer" alt="Footer"/>
