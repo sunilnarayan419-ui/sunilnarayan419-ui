@@ -1,173 +1,79 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:060606,100:111111&height=155&section=header&text=SUNIL%20MANDLOI&fontSize=44&fontColor=c5ff4a&fontAlignY=43&desc=Life%20Sciences%20%2F%2F%20Code%20%2F%2F%20Data%20%2F%2F%20AI%20%2F%2F%20Business&descAlignY=72&descSize=15"/>
+<a href="https://sunil-narayan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sunil-mandloi-1365582aa/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.researchgate.net/profile/Sunil-Mandloi-2"><img src="https://img.shields.io/badge/ResearchGate-00ccbb?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+<a href="https://github.com/sunilnarayan419-ui?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=C5FF4A&center=true&vCenter=true&width=800&lines=I.MSc.+Life+Science+%40+University+of+Hyderabad;Building+Python+%26+FastAPI+projects;Exploring+computational+biology+%26+AI+for+life+sciences;Research+%2B+Engineering+%2B+Business+Thinking" alt="Typing intro"/>
-
-<br/>
-
-<a href="https://github.com/sunilnarayan419-ui"><img src="https://img.shields.io/badge/GitHub-sunilnarayan419--ui-c5ff4a?style=for-the-badge&logo=github&logoColor=060606&labelColor=060606" alt="GitHub"/></a>
-<a href="https://sunil-narayan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Open-c5ff4a?style=for-the-badge&logo=netlify&logoColor=c5ff4a&labelColor=060606" alt="Portfolio"/></a>
-<a href="https://www.researchgate.net/profile/Sunil-Mandloi-2"><img src="https://img.shields.io/badge/ResearchGate-Profile-c5ff4a?style=for-the-badge&logo=researchgate&logoColor=c5ff4a&labelColor=060606" alt="ResearchGate"/></a>
+<img src="assets/bento.svg" width="100%" alt="Profile overview: Sunil Mandloi, Integrated M.Sc. Life Sciences student at the University of Hyderabad; framework from biological problem to strategic decision; focus areas and research interests"/>
 
 </div>
 
-<div align="center">
-  <img src="assets/profile-photo.png" width="230" alt="Portrait of Sunil Mandloi"/>
-  <br/>
-  <sub><code>sunil@life-sciences × software × data</code></sub>
-</div>
+> **How does a biological discovery become a technically feasible, economically viable, and strategically valuable business decision?** I use projects to practise that chain end to end: inspect the data, make assumptions explicit, build and test something, then state what the evidence does and does not support.
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  SYSTEM PROFILE                                                      │
-├──────────────────────────────────────────────────────────────────────┤
-│  NAME       Sunil Mandloi                                            │
-│  ROLE       I.MSc. Life Science Student                              │
-│  INSTITUTE  University of Hyderabad                                  │
-│  MODE       Learn -> Build -> Test -> Debug -> Document -> Repeat    │
-│  INTERESTS  Biology / Computing / Data / AI / Biotech / Strategy     │
-└──────────────────────────────────────────────────────────────────────┘
-```
+## 🚀 Featured projects
 
-## `01 / ABOUT`
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/AlgalPathogenRisk-ML"><img src="assets/project-algal.svg" alt="AlgalPathogenRisk-ML project card"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/churn-handset-targeting"><img src="assets/project-churn.svg" alt="Churn Handset Targeting project card"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/Home_credit_default_risk"><img src="assets/project-homecredit.svg" alt="Home Credit Default Risk project card"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/novo-nordisk-insulin-india-strategy"><img src="assets/project-novo.svg" alt="Novo Nordisk Insulin India Strategy project card"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/cell_division_timer"><img src="assets/project-celltimer.svg" alt="Cell Division Timer project card"/></a></td>
+<td width="50%" valign="top">
 
-I'm a Life Sciences student building practical skills at the intersection of **biology, software engineering, data analysis, machine learning, and business reasoning**.
+**More work**<br/>
+[Mini Bio-Python Projects](https://github.com/sunilnarayan419-ui/Mini-Bio-Python-Projects) · [Library Management System](https://github.com/sunilnarayan419-ui/Library-Management-System)<br/><br/>
+[Browse all repositories →](https://github.com/sunilnarayan419-ui?tab=repositories)
 
-I use projects to learn how to turn a question into a reproducible analysis or useful tool: understand the problem, inspect the data, make assumptions explicit, build and test a solution, document limitations, and communicate what the evidence supports.
+</td>
+</tr>
+</table>
 
-```text
-BIOLOGICAL QUESTION
-        |
-        v
- RESEARCH + DATA ---> ANALYSIS / MODEL
-                            |
-                            v
-                  TESTED TOOL / API
-                            |
-                            v
-                 EVIDENCE + LIMITATIONS
-                            |
-                            v
-                    PRACTICAL DECISION
-```
+## 🛠️ Tech stack
 
-## `02 / PROJECT LOG`
+<img src="assets/stack.svg" width="100%" alt="Technology stack: used in projects, quality and docs, learning, planned"/>
 
-| Repository | What it explores |
-|---|---|
-| [📡 Churn Handset Targeting](https://github.com/sunilnarayan419-ui/churn-handset-targeting) | Telecom churn-risk modelling, calibration, retention economics, pilot sizing, and an API. A measurement-first pilot that emphasizes validating incremental impact before broad rollout. |
-| [💳 Home Credit Default Risk](https://github.com/sunilnarayan419-ui/Home_credit_default_risk) | Credit-risk modelling workflow with data validation, model evaluation, API-oriented deployment, testing, and technical documentation. Educational analysis—not a real lending decision system. |
-| [🧫 Cell Division Timer](https://github.com/sunilnarayan419-ui/cell_division_timer) | Quantitative cell-division timing and biological data analysis, connecting programming with a life-science problem. |
-| [💉 Novo Nordisk — Insulin in India Strategy](https://github.com/sunilnarayan419-ui/novo-nordisk-insulin-india-strategy) | Research and strategic analysis around insulin, healthcare access, market dynamics, and business decisions in India. |
-| [🧬 Mini Bio-Python Projects](https://github.com/sunilnarayan419-ui/Mini-Bio-Python-Projects) | Small Python exercises around biological data and computational thinking. |
-| [📚 Library Management System](https://github.com/sunilnarayan419-ui/Library-Management-System) | Application development practice covering library workflows, data handling, and software structure. |
+## 🔬 Research interests
 
-**[Browse all public repositories →](https://github.com/sunilnarayan419-ui?tab=repositories)**
+Molecular and cellular biology, genomics and transcriptomics, computational biology, translational research, drug discovery, plant biotechnology and AI for life sciences. I have posted questions on [ResearchGate](https://www.researchgate.net/profile/Sunil-Mandloi-2) about horseshoe-crab innate immunity as inspiration for diagnostic design, and about transcriptional activity across accessible chromatin. These are **interests and discussion topics, not publications or experimental findings.**
 
-## `03 / RESEARCH RADAR`
+## ⚙️ How I work
 
-Areas I’m interested in learning and investigating:
+**Problem → Research → Analysis → Implementation → Validation → Decision**
 
-- **Molecular and cellular biology** — mechanisms, gene regulation, chromatin, and cell biology.
-- **Computational biology and bioinformatics** — using programming and data to explore biological systems.
-- **Biotechnology and translational research** — connecting scientific understanding with potential applications.
-- **Drug discovery and development** — investigating how computational methods may support early-stage research.
-- **Plant biology and biotechnology** — biological systems, plant-derived compounds, and possible applications.
-- **AI for life sciences** — evaluating where machine learning is useful, what evidence is required, and where limitations matter.
+Outputs are both **technical artifacts** (code, models, APIs, reproducible workflows) and **decision artifacts** (evidence summaries, economic analysis, recommendations), always with limitations and uncertainty stated.
 
-I have explored questions around horseshoe crab innate immunity as inspiration for diagnostic design, and transcriptional activity across accessible chromatin. These are **research interests and discussion topics**, not claims of published findings.
+## 🗺️ Learning roadmap
 
-[Open my ResearchGate profile →](https://www.researchgate.net/profile/Sunil-Mandloi-2)
+<img src="assets/roadmap.svg" width="100%" alt="Learning roadmap: life-science foundations, programming and statistics, scientific data analysis, bioinformatics, ML and computational modelling, economics and finance, biotech strategy and commercialization"/>
 
-## `04 / TECH STACK`
+## 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,docker,postgres,vscode,react,typescript&theme=dark" alt="Technology icons"/>
+<img src="https://ghchart.rshah.org/39d353/sunilnarayan419-ui" width="100%" alt="GitHub contribution heatmap"/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=sunilnarayan419-ui&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=e6edf3" alt="GitHub statistics"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilnarayan419-ui&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=e6edf3" alt="Top languages"/>
+
+<sub>Third-party cards built from public data; they may be delayed or unavailable.</sub>
 
 </div>
 
-```text
-LANGUAGES & DATA     Python, SQL, NumPy, pandas, Matplotlib, SciPy
-MACHINE LEARNING     scikit-learn, model evaluation, feature engineering,
-                     cross-validation, calibration
-BACKEND              FastAPI, REST APIs, Pydantic
-DATABASES            PostgreSQL, SQLite; introductory graph workflows
-QUALITY              pytest, Ruff, mypy, GitHub Actions
-DELIVERY             Git, GitHub, Docker, environment configuration
-DOCUMENTATION        Markdown, API docs, MkDocs Material, technical reports
-DOMAIN               Life sciences, computational biology, biotech analysis
-```
+## 🤝 Collaboration
 
-*This is a learning-in-progress toolkit; proficiency varies by tool and topic.*
-
-## `05 / BUILD PROTOCOL`
-
-```text
-[01] DEFINE       State the question and intended decision
-[02] INSPECT      Check data quality, provenance, and constraints
-[03] DESIGN       Make assumptions and evaluation criteria explicit
-[04] BUILD        Create a small, testable implementation
-[05] VALIDATE     Test edge cases and examine model / analysis limits
-[06] DOCUMENT     Explain setup, outputs, and reproducibility
-[07] COMMUNICATE  Translate results into useful next steps
-```
-
-My goal is to ship projects that go beyond a demo: **clear setup, sensible validation, tests where appropriate, readable documentation, and honest limitations**.
-
-## `06 / GITHUB PULSE`
+I am looking for research projects, internships and collaborations in computational biology, bioinformatics, scientific software, AI for life sciences and evidence-driven biotech strategy. Long term, I aim toward biotechnology business consulting; I do not currently offer client services.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sunilnarayan419-ui&show_icons=true&theme=transparent&hide_border=true&bg_color=060606&title_color=c5ff4a&icon_color=c5ff4a&text_color=e5e5e5" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilnarayan419-ui&layout=compact&theme=transparent&hide_border=true&bg_color=060606&title_color=c5ff4a&text_color=e5e5e5" alt="Top languages"/>
+**Science** explains what may be possible. **Data** shows what is happening.
+**Economics** weighs value and constraints. **Strategy** decides what to do next.
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sunilnarayan419-ui&theme=dark&hide_border=true&background=060606&ring=c5ff4a&fire=c5ff4a&currStreakLabel=c5ff4a" alt="GitHub contribution streak"/>
+<sub>Layout inspired by the bento template of <a href="https://github.com/whoisyurii/checkmygit">CheckMyGit</a> (MIT). No CheckMyGit code or assets are used.</sub>
 
 </div>
-
-<sub>Stats cards are served by third-party services and may occasionally be unavailable or delayed.</sub>
-
-## `07 / CURRENT DIRECTION`
-
-```text
-LIFE SCIENCES
-      |
-      +----> PROGRAMMING + STATISTICS
-                    |
-                    +----> DATA ANALYTICS
-                    |          |
-                    |          +----> COMPUTATIONAL BIOLOGY
-                    |                       |
-                    |                       +----> AI / ML FOR LIFE SCIENCES
-                    |
-                    +----> BACKEND + TESTING + DEPLOYMENT
-
-ALL PATHS --------------------------------> EVIDENCE-BASED DECISIONS
-```
-
-I’m working toward a career that combines **life-science understanding, computational methods, and business judgement**. Research, bioinformatics, data/ML engineering, biotech innovation, and healthcare strategy are all areas I’m exploring through coursework, practical projects, and experience.
-
-## `08 / CONTACT`
-
-Interested in computational biology, bioinformatics, AI for life sciences, biotechnology, open-source engineering, or healthcare strategy? I’d be glad to connect and learn from what you’re building.
-
-<div align="center">
-
-<a href="https://github.com/sunilnarayan419-ui"><img src="https://img.shields.io/badge/GitHub-Visit-c5ff4a?style=for-the-badge&logo=github&logoColor=c5ff4a&labelColor=060606" alt="GitHub"/></a>
-<a href="https://sunil-narayan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-c5ff4a?style=for-the-badge&logo=netlify&logoColor=c5ff4a&labelColor=060606" alt="Portfolio"/></a>
-<a href="https://www.researchgate.net/profile/Sunil-Mandloi-2"><img src="https://img.shields.io/badge/ResearchGate-Connect-c5ff4a?style=for-the-badge&logo=researchgate&logoColor=c5ff4a&labelColor=060606" alt="ResearchGate"/></a>
-
-<br/><br/>
-
-**SCIENCE** asks what is possible.  
-**DATA** helps us understand what is happening.  
-**ECONOMICS** clarifies what is valuable.  
-**STRATEGY** helps decide what to do next.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:060606&height=55&section=footer" alt="Footer"/>
