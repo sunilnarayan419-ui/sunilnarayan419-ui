@@ -9,30 +9,16 @@
 
 </div>
 
-> **How does a biological discovery become a technically feasible, economically viable, and strategically valuable business decision?** I use projects to practise that chain end to end: inspect the data, make assumptions explicit, build and test something, then state what the evidence does and does not support.
+## 👋 Hi, I'm Sunil
 
-## 🚀 Featured projects
+I'm an **Integrated M.Sc. Life Sciences student at the University of Hyderabad**, working where **biology, code and data** meet. I'm drawn to translational research: taking discoveries from the lab towards real-world use.
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/AlgalPathogenRisk-ML"><img src="assets/project-algal.svg" alt="AlgalPathogenRisk-ML project card"/></a></td>
-<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/churn-handset-targeting"><img src="assets/project-churn.svg" alt="Churn Handset Targeting project card"/></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/Home_credit_default_risk"><img src="assets/project-homecredit.svg" alt="Home Credit Default Risk project card"/></a></td>
-<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/novo-nordisk-insulin-india-strategy"><img src="assets/project-novo.svg" alt="Novo Nordisk Insulin India Strategy project card"/></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/sunilnarayan419-ui/cell_division_timer"><img src="assets/project-celltimer.svg" alt="Cell Division Timer project card"/></a></td>
-<td width="50%" valign="top">
+🧬 **Learning:** molecular biology, genomics and computational biology
+🐍 **Building:** Python skills for turning biological and business data into evidence
+💼 **Experience:** completed an R&D internship at **EpochFolio Private Limited** (Oct 2026), working across research, market analysis and financial analysis
+🎯 **Aiming for:** a career that connects life science, AI and biotech strategy
 
-**More work**<br/>
-[Mini Bio-Python Projects](https://github.com/sunilnarayan419-ui/Mini-Bio-Python-Projects) · [Library Management System](https://github.com/sunilnarayan419-ui/Library-Management-System)<br/><br/>
-[Browse all repositories →](https://github.com/sunilnarayan419-ui?tab=repositories)
-
-</td>
-</tr>
-</table>
+> **How does a biological discovery become a technically feasible, economically viable, and strategically valuable business decision?** I practise that chain end to end: inspect the data, make assumptions explicit, build and test something, then state what the evidence does and does not support.
 
 ## 🛠️ Tech stack
 
